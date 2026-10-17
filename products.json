@@ -1,0 +1,11 @@
+[
+  {"id":"w1","page":"women.html","category":"ethnic","name":"Floral Kurta","price":799,"image":"women_kurta.svg"},
+  {"id":"w2","page":"women.html","category":"jeans","name":"Blue Slim Jeans","price":1299,"image":"women_jeans.svg"},
+  {"id":"w3","page":"women.html","category":"top","name":"Casual Top","price":499,"image":"women_top.svg"},
+  {"id":"w4","page":"women.html","category":"shirt","name":"Formal Shirt","price":899,"image":"women_shirt.svg"},
+  {"id":"m1","page":"men.html","category":"shirt","name":"Oxford Shirt","price":999,"image":"men_shirt.svg"},
+  {"id":"m2","page":"men.html","category":"jeans","name":"Regular Fit Jeans","price":1199,"image":"men_jeans.svg"},
+  {"id":"m3","page":"men.html","category":"kurta","name":"Men's Kurta","price":1099,"image":"men_kurta.svg"},
+  {"id":"k1","page":"kids.html","category":"boys","name":"Printed T-Shirt","price":299,"image":"kids_boys.svg"},
+  {"id":"k2","page":"kids.html","category":"girls","name":"Frock","price":499,"image":"kids_girls.svg"}
+]
