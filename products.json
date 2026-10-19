@@ -1,11 +1,11 @@
 [
-  {"id":"w1","page":"women.html","category":"ethnic","subcategory":"kurta","name":"Floral Kurta","price":799,"images":["images/women/women_kurta.svg"]},
-  {"id":"w2","page":"women.html","category":"jeans","subcategory":"jeans","name":"Blue Slim Jeans","price":1299,"images":["images/women/women_jeans.svg"]},
-  {"id":"w3","page":"women.html","category":"top","subcategory":"top","name":"Casual Top","price":499,"images":["images/women/women_top.svg"]},
-  {"id":"w4","page":"women.html","category":"shirt","subcategory":"shirt","name":"Formal Shirt","price":899,"images":["images/women/women_shirt.svg"]},
-  {"id":"m1","page":"men.html","category":"shirt","subcategory":"shirt","name":"Oxford Shirt","price":999,"images":["images/men/men_shirt.svg","images/men/men_shirt_2.svg","images/men/men_shirt_3.svg"]},
-  {"id":"m2","page":"men.html","category":"jeans","subcategory":"jeans","name":"Regular Fit Jeans","price":1199,"images":["images/men/men_jeans.svg"]},
-  {"id":"m3","page":"men.html","category":"kurta","subcategory":"kurta","name":"Men's Kurta","price":1099,"images":["images/men/men_kurta.svg"]},
-  {"id":"k1","page":"kids.html","category":"boys","subcategory":"boys","name":"Printed T-Shirt","price":299,"images":["images/kids/kids_boys.svg"]},
-  {"id":"k2","page":"kids.html","category":"girls","subcategory":"girls","name":"Frock","price":499,"images":["images/kids/kids_girls.svg"]}
+  {"id":"w1","page":"women.html","category":"ethnic","subcategory":"kurta","name":"Floral Kurta","price":799,"images":["images/women/saree1.jpg","images/women/women_kurta.svg"]},
+  {"id":"w2","page":"women.html","category":"jeans","subcategory":"jeans","name":"Blue Slim Jeans","price":1299,"images":["images/women/jeans1.jpg","images/women/women_jeans.svg"]},
+  {"id":"w3","page":"women.html","category":"top","subcategory":"top","name":"Casual Top","price":499,"images":["images/women/top1.jpg","images/women/women_top.svg"]},
+  {"id":"w4","page":"women.html","category":"shirt","subcategory":"shirt","name":"Formal Shirt","price":899,"images":["images/women/shirt1.jpg","images/women/women_shirt.svg"]},
+  {"id":"m1","page":"men.html","category":"shirt","subcategory":"shirt","name":"Oxford Shirt","price":999,"images":["images/men/shirt1.jpg","images/men/men_shirt_2.svg","images/men/men_shirt_3.svg"]},
+  {"id":"m2","page":"men.html","category":"jeans","subcategory":"jeans","name":"Regular Fit Jeans","price":1199,"images":["images/men/jeans1.jpg","images/men/men_jeans.svg"]},
+  {"id":"m3","page":"men.html","category":"kurta","subcategory":"kurta","name":"Men's Kurta","price":1099,"images":["images/men/kurta1.jpg","images/men/men_kurta.svg"]},
+  {"id":"k1","page":"kids.html","category":"boys","subcategory":"boys","name":"Printed T-Shirt","price":299,"images":["images/kids/boys1.jpg","images/kids/kids_boys.svg"]},
+  {"id":"k2","page":"kids.html","category":"girls","subcategory":"girls","name":"Frock","price":499,"images":["images/kids/girls1.jpg","images/kids/kids_girls.svg"]}
 ]
